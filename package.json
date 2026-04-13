@@ -1,7 +1,7 @@
 {
   "name": "javascript.reviw",
   "version": "1.0.0",
-  "description": "Sample JavaScript project for reviewing 00P and DDD concepts.",
+  "description": "Sample JavaScript project fo reviewing 00P and DDD concepts.",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
